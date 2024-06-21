@@ -1,0 +1,16 @@
+mail
+ftp
+local
+images
+localhost
+images
+drive
+admin
+blog
+support
+news
+chat
+chatbot
+gemini
+bard
+test
